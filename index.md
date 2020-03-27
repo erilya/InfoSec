@@ -5,8 +5,7 @@ You can use the [editor on GitHub](https://github.com/erilya/InfoSec/edit/master
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Проверка работы кириллицы.
 
 ```markdown
 Syntax highlighted code block
